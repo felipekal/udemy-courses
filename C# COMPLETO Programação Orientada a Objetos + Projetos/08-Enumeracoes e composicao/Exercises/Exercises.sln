@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercises", "Exercises.cspr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise2", "..\StringBuilder\Exercise2.csproj", "{F816DF09-6A42-4E5A-9AE2-CC4FB02D00E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderTech", "..\OrderTech\OrderTech.csproj", "{26C87BEA-D030-43FC-B8DB-AE32E60D3A54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F816DF09-6A42-4E5A-9AE2-CC4FB02D00E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F816DF09-6A42-4E5A-9AE2-CC4FB02D00E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F816DF09-6A42-4E5A-9AE2-CC4FB02D00E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26C87BEA-D030-43FC-B8DB-AE32E60D3A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C87BEA-D030-43FC-B8DB-AE32E60D3A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C87BEA-D030-43FC-B8DB-AE32E60D3A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C87BEA-D030-43FC-B8DB-AE32E60D3A54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
