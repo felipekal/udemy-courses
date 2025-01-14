@@ -1,0 +1,15 @@
+C:\Users\Felipe\Documents\C# - Completo\14 - Interfaces\AluguelCarros\AluguelCarros\bin\Debug\net6.0\AluguelCarros.exe
+C:\Users\Felipe\Documents\C# - Completo\14 - Interfaces\AluguelCarros\AluguelCarros\bin\Debug\net6.0\AluguelCarros.deps.json
+C:\Users\Felipe\Documents\C# - Completo\14 - Interfaces\AluguelCarros\AluguelCarros\bin\Debug\net6.0\AluguelCarros.runtimeconfig.json
+C:\Users\Felipe\Documents\C# - Completo\14 - Interfaces\AluguelCarros\AluguelCarros\bin\Debug\net6.0\AluguelCarros.dll
+C:\Users\Felipe\Documents\C# - Completo\14 - Interfaces\AluguelCarros\AluguelCarros\bin\Debug\net6.0\AluguelCarros.pdb
+C:\Users\Felipe\Documents\C# - Completo\14 - Interfaces\AluguelCarros\AluguelCarros\obj\Debug\net6.0\AluguelCarros.csproj.AssemblyReference.cache
+C:\Users\Felipe\Documents\C# - Completo\14 - Interfaces\AluguelCarros\AluguelCarros\obj\Debug\net6.0\AluguelCarros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\C# - Completo\14 - Interfaces\AluguelCarros\AluguelCarros\obj\Debug\net6.0\AluguelCarros.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\C# - Completo\14 - Interfaces\AluguelCarros\AluguelCarros\obj\Debug\net6.0\AluguelCarros.AssemblyInfo.cs
+C:\Users\Felipe\Documents\C# - Completo\14 - Interfaces\AluguelCarros\AluguelCarros\obj\Debug\net6.0\AluguelCarros.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\C# - Completo\14 - Interfaces\AluguelCarros\AluguelCarros\obj\Debug\net6.0\AluguelCarros.dll
+C:\Users\Felipe\Documents\C# - Completo\14 - Interfaces\AluguelCarros\AluguelCarros\obj\Debug\net6.0\refint\AluguelCarros.dll
+C:\Users\Felipe\Documents\C# - Completo\14 - Interfaces\AluguelCarros\AluguelCarros\obj\Debug\net6.0\AluguelCarros.pdb
+C:\Users\Felipe\Documents\C# - Completo\14 - Interfaces\AluguelCarros\AluguelCarros\obj\Debug\net6.0\AluguelCarros.genruntimeconfig.cache
+C:\Users\Felipe\Documents\C# - Completo\14 - Interfaces\AluguelCarros\AluguelCarros\obj\Debug\net6.0\ref\AluguelCarros.dll

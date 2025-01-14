@@ -1,0 +1,14 @@
+C:\Users\Felipe\Documents\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\03-LogicaDeProgramacao\ExerciciosEstruturaCondicional\Exercicio3\bin\Debug\net6.0\Exercicio3.exe
+C:\Users\Felipe\Documents\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\03-LogicaDeProgramacao\ExerciciosEstruturaCondicional\Exercicio3\bin\Debug\net6.0\Exercicio3.deps.json
+C:\Users\Felipe\Documents\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\03-LogicaDeProgramacao\ExerciciosEstruturaCondicional\Exercicio3\bin\Debug\net6.0\Exercicio3.runtimeconfig.json
+C:\Users\Felipe\Documents\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\03-LogicaDeProgramacao\ExerciciosEstruturaCondicional\Exercicio3\bin\Debug\net6.0\Exercicio3.dll
+C:\Users\Felipe\Documents\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\03-LogicaDeProgramacao\ExerciciosEstruturaCondicional\Exercicio3\bin\Debug\net6.0\Exercicio3.pdb
+C:\Users\Felipe\Documents\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\03-LogicaDeProgramacao\ExerciciosEstruturaCondicional\Exercicio3\obj\Debug\net6.0\Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\03-LogicaDeProgramacao\ExerciciosEstruturaCondicional\Exercicio3\obj\Debug\net6.0\Exercicio3.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\03-LogicaDeProgramacao\ExerciciosEstruturaCondicional\Exercicio3\obj\Debug\net6.0\Exercicio3.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\03-LogicaDeProgramacao\ExerciciosEstruturaCondicional\Exercicio3\obj\Debug\net6.0\Exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\03-LogicaDeProgramacao\ExerciciosEstruturaCondicional\Exercicio3\obj\Debug\net6.0\Exercicio3.dll
+C:\Users\Felipe\Documents\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\03-LogicaDeProgramacao\ExerciciosEstruturaCondicional\Exercicio3\obj\Debug\net6.0\refint\Exercicio3.dll
+C:\Users\Felipe\Documents\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\03-LogicaDeProgramacao\ExerciciosEstruturaCondicional\Exercicio3\obj\Debug\net6.0\Exercicio3.pdb
+C:\Users\Felipe\Documents\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\03-LogicaDeProgramacao\ExerciciosEstruturaCondicional\Exercicio3\obj\Debug\net6.0\Exercicio3.genruntimeconfig.cache
+C:\Users\Felipe\Documents\Udemy\C# COMPLETO Programação Orientada a Objetos + Projetos\03-LogicaDeProgramacao\ExerciciosEstruturaCondicional\Exercicio3\obj\Debug\net6.0\ref\Exercicio3.dll
