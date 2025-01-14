@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\interfaces4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{577ADE6F-EFC3-46E3-A9D4-9BEE81184260}|interfaces4\\interfaces4.csproj|c:\\repos\\interfaces4\\interfaces4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577ADE6F-EFC3-46E3-A9D4-9BEE81184260}|interfaces4\\interfaces4.csproj|solutionrelative:interfaces4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577ADE6F-EFC3-46E3-A9D4-9BEE81184260}|interfaces4\\interfaces4.csproj|c:\\repos\\interfaces4\\interfaces4\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577ADE6F-EFC3-46E3-A9D4-9BEE81184260}|interfaces4\\interfaces4.csproj|solutionrelative:interfaces4\\entities\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577ADE6F-EFC3-46E3-A9D4-9BEE81184260}|interfaces4\\interfaces4.csproj|c:\\repos\\interfaces4\\interfaces4\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577ADE6F-EFC3-46E3-A9D4-9BEE81184260}|interfaces4\\interfaces4.csproj|solutionrelative:interfaces4\\entities\\installment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Installment.cs",
+              "DocumentMoniker": "C:\\repos\\interfaces4\\interfaces4\\Entities\\Installment.cs",
+              "RelativeDocumentMoniker": "interfaces4\\Entities\\Installment.cs",
+              "ToolTip": "C:\\repos\\interfaces4\\interfaces4\\Entities\\Installment.cs",
+              "RelativeToolTip": "interfaces4\\Entities\\Installment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:32:00.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\repos\\interfaces4\\interfaces4\\Entities\\Contract.cs",
+              "RelativeDocumentMoniker": "interfaces4\\Entities\\Contract.cs",
+              "ToolTip": "C:\\repos\\interfaces4\\interfaces4\\Entities\\Contract.cs",
+              "RelativeToolTip": "interfaces4\\Entities\\Contract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:30:01.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repos\\interfaces4\\interfaces4\\Program.cs",
+              "RelativeDocumentMoniker": "interfaces4\\Program.cs",
+              "ToolTip": "C:\\repos\\interfaces4\\interfaces4\\Program.cs",
+              "RelativeToolTip": "interfaces4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:29:15.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
