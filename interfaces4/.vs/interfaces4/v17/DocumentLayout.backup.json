@@ -55,8 +55,7 @@
               "RelativeToolTip": "interfaces4\\Interfaces\\PaypalService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T01:12:18.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T01:12:18.391Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "interfaces4\\Entities\\Installment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:32:00.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T19:32:00.536Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "interfaces4\\Entities\\Contract.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAYwA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:30:01.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T19:30:01.167Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "interfaces4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T19:29:15.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T19:29:15.307Z"
             }
           ]
         }
