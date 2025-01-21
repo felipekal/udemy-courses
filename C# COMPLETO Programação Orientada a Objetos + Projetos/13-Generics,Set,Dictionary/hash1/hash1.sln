@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hash1", "hash1\hash1.csproj", "{CD25DC9C-85C2-44DA-AF51-12B4E02A7BE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD25DC9C-85C2-44DA-AF51-12B4E02A7BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD25DC9C-85C2-44DA-AF51-12B4E02A7BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD25DC9C-85C2-44DA-AF51-12B4E02A7BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD25DC9C-85C2-44DA-AF51-12B4E02A7BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
